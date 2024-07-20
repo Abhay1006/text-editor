@@ -1,0 +1,9 @@
+.text-container {
+    cursor: text;
+    user-select: none;
+  }
+  
+  .text-container:focus {
+    outline: none;
+  }
+  
